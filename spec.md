@@ -1,0 +1,2 @@
+#Individual project can avoid the communication cost and making contribution rate clearly,so I decide to complete the 7940project by myself. 
+#I will build a LINE chatbot, which can be ask for the Epidemic situation、the number of cases diagnosed in each region、the change curve and so on.
